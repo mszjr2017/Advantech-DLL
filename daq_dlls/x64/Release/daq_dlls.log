@@ -1,0 +1,22 @@
+﻿生成启动时间为 2018/7/24 15:45:47。
+     1>项目“C:\MyFiles\课题\数据采集\py_daq\daq_dlls\daq_dlls\daq_dlls.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D DAQ_DLLS_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"x64\Release\daq_dlls.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D DAQ_DLLS_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Release\daq_dlls.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt daq_dlls.cpp
+         daq_dlls.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D DAQ_DLLS_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt dllmain.cpp
+         dllmain.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\MyFiles\课题\数据采集\py_daq\daq_dlls\x64\Release\daq_dlls.dll" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\MyFiles\课题\数据采集\py_daq\daq_dlls\x64\Release\daq_dlls.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\MyFiles\课题\数据采集\py_daq\daq_dlls\x64\Release\daq_dlls.lib" /MACHINE:X64 /DLL x64\Release\daq_dlls.obj
+         x64\Release\dllmain.obj
+         x64\Release\stdafx.obj
+            正在创建库 C:\MyFiles\课题\数据采集\py_daq\daq_dlls\x64\Release\daq_dlls.lib 和对象 C:\MyFiles\课题\数据采集\py_daq\daq_dlls\x64\Release\daq_dlls.exp
+         正在生成代码
+         已完成代码的生成
+         daq_dlls.vcxproj -> C:\MyFiles\课题\数据采集\py_daq\daq_dlls\x64\Release\daq_dlls.dll
+     1>已完成生成项目“C:\MyFiles\课题\数据采集\py_daq\daq_dlls\daq_dlls\daq_dlls.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.27
